@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    position: relative;
+    width: 1472px;
+    height: 1019px;
+    
+    background: #FFFFFF;
+}
+h1{
+position: absolute;
+width: 365px;
+height: 93px;
+left: 127px;
+top: 91px;
+
+font-family: Roboto Slab;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 101.38%;
+/* or 56px */
+
+
+color: #000000;
+
+}
+.main-text{
+    position: absolute;
+width: 662px;
+height: 374px;
+left: 127px;
+top: 202px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+
+
+color: #000000;
+
+}
+.right img{
+    
+position: absolute;
+width: 314px;
+height: 315px;
+left: 997px;
+top: 226px;
+}
+.left img{
+ position: absolute;
+width: 232px;
+height: 203px;
+left: 127px;
+top: 670px;
+}
+.first h4{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 499px;
+top: 740px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+
+color: #000000;
+}
+.second h4{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 749px;
+top: 740px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+
+color: #000000;
+}
+.third h4{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 997px;
+top: 740px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+
+color: #000000;
+}
+.first p{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 499px;
+top: 780px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+.second p{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 749px;
+top: 780px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+
+color: #000000;
+
+}
+.third p{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 997px;
+top: 780px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+
+color: #000000;
+
+}
