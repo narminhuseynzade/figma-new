@@ -10,6 +10,10 @@ body{
     
     background: #FFFFFF;
 }
+main{
+    display: flex;
+    justify-content: space-between;
+}
 h1{
 position: absolute;
 width: 365px;
